@@ -1,9 +1,4 @@
-# TASK-6-CYBERS-SECURITY-INTERSHIP
-Great! I’ll rewrite the Safari/macOS audit guide into a detailed Chrome extension security audit guide specifically for Windows users. This version will provide step-by-step instructions for reviewing, researching, and removing Chrome extensions, with updated terminology and examples relevant to the Windows environment.
-
-I’ll let you know as soon as the rewritten guide is ready.
-
-
+# TASK-7-CYBERS-SECURITY-INTERSHIP
 # Chrome Extension Audit (Browser Security Cleanup)
 
 Browser extensions can enhance Chrome’s functionality (ad blocking, password managers, etc.), but they also pose security and privacy risks. Malicious or outdated extensions may inject ads, steal data, or slow down the browser. Chrome extensions often require broad permissions (access to browsing history, cookies, web page data, etc.), so a compromised add-on can expose credentials or browsing data.  Security experts therefore recommend regularly auditing your installed extensions and ensuring each one is trustworthy. This report outlines steps to audit Chrome extensions on Windows: how to view installed extensions, evaluate their safety, and disable or remove any that are unnecessary or suspicious.
